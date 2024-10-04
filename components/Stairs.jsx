@@ -33,7 +33,7 @@ const Stairs = () => {
               delay: reverseIndex(index) * 0.1,
             }}
             className="h-full w-full relative"
-            style={{ backgroundColor: "#00ff99" }}
+            style={{ backgroundColor: "#FFCD00" }}
           />
         );
       })}

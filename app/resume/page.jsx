@@ -29,7 +29,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About Me",
   description:
-    "I am a full-stack web developer with a passion for building high-quality web applications that provide value to users. I specialize in creating modern, responsive web applications using React, Node.js, and .NET, with secure deployment in cloud platforms like AWS and Azure. I have experience working with a variety of databases including PostgreSQL and MongoDB, and I am proficient in DevOps tools like Docker and Kubernetes. I am also skilled in project management tools like Jira, and I am always eager to learn new technologies to improve my skills and deliver the best solutions for my clients.",
+    "I am a full-stack web developer with a passion for building high-quality web applications that provide value to users. I specialize in creating modern, responsive web applications using React, Django, Node.js, and .NET, with secure deployment in cloud platforms like AWS and Azure. I have experience working with a variety of databases including PostgreSQL and MongoDB, and I am proficient in DevOps tools like Docker and Kubernetes. I am also skilled in project management tools like Jira, and I am always eager to learn new technologies to improve my skills and deliver the best solutions.",
   info: [
     { fieldName: "Name", value: "Aaradhanah Appalo Eleven" },
     { fieldName: "Email", value: "aaradhanaha@gmail.com" },

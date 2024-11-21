@@ -13,7 +13,11 @@ const Header = () => {
         </Link>
         <div className="hidden xl:flex items-center gap-8">
           <Nav />
-          <Link href="/contact">
+          <Link
+            href="./Resume.pdf"
+            download="Aaradhanah Appalo Eleven - Resume.pdf"
+            target="_blank"
+          >
             <Button>Hire Me!</Button>
           </Link>
         </div>

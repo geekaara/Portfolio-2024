@@ -1,6 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 import Image from "next/image";
+import AaraSVG from "./aara.png";
 
 const Photo = () => {
   return (
@@ -21,7 +22,7 @@ const Photo = () => {
           className="w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] mix-blend-lighten absolute"
         >
           <Image
-            src="/profile.png"
+            src={AaraSVG}
             fill
             alt="Picture of the author"
             priority

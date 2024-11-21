@@ -6,10 +6,10 @@ import Link from "next/link";
 import { CiMenuFries } from "react-icons/ci";
 const links = [
   { name: "Home", path: "/" },
-  { name: "Services", path: "/services" },
+  // { name: "Services", path: "/services" },
   { name: "Resume", path: "/resume" },
-  { name: "Projects", path: "/projects" },
-  { name: "Contact", path: "/contact" },
+  //{ name: "Projects", path: "/projects" },
+  //{ name: "Contact", path: "/contact" },
 ];
 const MobileNav = () => {
   const pathname = usePathname();
